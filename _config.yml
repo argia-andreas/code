@@ -1,6 +1,6 @@
 baseurl: "/"
 permalink: pretty
-title: "Jekyll Atlantic"
+title: "Grafstorm"
 collections_dir: collections
 markdown: kramdown
 highlighter: rouge
